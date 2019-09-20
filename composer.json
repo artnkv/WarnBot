@@ -1,0 +1,10 @@
+{
+    "require": {
+        "digitalstars/simplevk": "^2.10",
+        "envms/fluentpdo": "^2.1.0",
+      "ext-json": "*",
+      "ext-pdo": "*",
+      "ext-curl": "*",
+      "ext-mbstring": "*"
+    }
+}
